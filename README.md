@@ -28,5 +28,6 @@ El **Windows Event Analyzer** es un script de Python diseñado para analizar eve
 ## Uso
 
 Ejecuta el script desde la línea de comandos proporcionando los parámetros necesarios:
-    ```bash
-    python3 windows_event_analyzer.py --log_type Security --event_ids 4625,4673,4688 --output_file resultado_eventos.csv
+  
+```bash
+python3 windows_event_analyzer.py --log_type Security --event_ids 4625,4673,4688 --output_file resultado_eventos.csv
